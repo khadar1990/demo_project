@@ -72,3 +72,4 @@
 5.10	Telnet	1	5
 5.11	FTP	1	5
 5.12	Samba	1	5
+5.13    VPS
