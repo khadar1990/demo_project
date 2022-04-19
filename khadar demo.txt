@@ -1,0 +1,74 @@
+1.0	Overview of Linux	12	 
+1.1	What is Linux	1	1
+1.2	Linux„s root in Unix	1	1
+1.3	Common Linux Features	1	1
+1.4	advantage of Linux	1	1
+1.5	Overview of Unix and Linux architectures	1	1
+1.6	Linux files system	1	1
+1.7	hardware requirements for Linux	1	1
+1.8	Linux standard directories	1	1
+1.9	Commands for files and directories cd, ls, cp, rm, mkdir,	1	1
+1.10	rmdir, pwd, file, more, less	1	1
+1.11	Creating and viewing files using cat	1	1
+1.12	file comparisons	1	1
+2.0 	 Essential Linux commands	15 	 
+2.1 	 Processes in Linux	1 	2 
+2.2 	 Process fundamentals	1 	2 
+2.3 	 Connecting processes with pipes	1 	2 
+2.4 	 Redirecting input	1 	2 
+2.5 	 Redirecting output	1 	2 
+2.6 	 Background processing	1 	2 
+2.7 	 Managing multiple processes	1 	2 
+2.8 	 Process scheduling – (at,batch)	1 	2 
+2.9 	 nohup command,	1 	2 
+2.10	kill, ps, who	1	2
+2.11	find, sort, touch, file	1	2
+2.12	file processing commands – wc, cut, paste etc	1	2
+2.13	Mathematical commands – expr, factor etc	1	2
+2.14	Creating files with vi editor.	1	2
+2.15	Editing files with vi editor.	1	2
+3.0	Shell programming	15	 
+3.1	Basics of shell programming	1	3
+3.2	various types of shell available in Linux	2	3
+3.3	Comparisons between various shells	2	3
+3.4	Shell programming in bash	1	3
+3.5	Conditional statements	1	3
+3.6	Looping statements.	1	3
+3.7	Case statement	2	3
+3.8	Parameter passing and arguments	1	3
+3.9	Shell variables	1	3
+3.10	System shell variables	1	3
+3.11	shell keywords	1	3
+3.12	Creating Shell programs for automating system tasks	1	3
+4.0	System administration	18	 
+4.1	Common administrative tasks	1	4
+4.2	identifying administrative files	1	4
+4.3	Configuration and log files	1	4
+4.4	Role of system administrator	1	4
+4.5	Managing user accounts -adding users	1	4
+4.6	Managing user accounts -deleting users	1	4
+4.7	Changing permissions and ownerships	1	4
+4.8	Creating and managing groups	1	4
+4.9	Modifying group attributes	1	4
+4.10	Temporary disabling of users accounts	1	4
+4.11	Creating and mounting file system	1	4
+4.12	Checking and monitoring system performance	1	4
+4.13	file security & Permissions	1	4
+4.14	becoming super user using su	1	4
+4.15	Getting system information with uname, host name	1	4
+4.16	Disk partitions & sizes	1	4
+4.17	users, kernel, installing and removing packages	1	4
+4.18	rpm command	1	4
+5.0	Simple filter commands & Understanding various Servers.	12	 
+5.1	Filter Commands-pr, head, tail	1	5
+5.2	Filter Commands -cut, sort.	1	5
+5.3	Filter Commands- uniq, tr.	1	5
+5.4	Filter using regular expression grep.	1	5
+5.5	Filter using regular expression egrep, sed	1	5
+5.6	DHCP	1	5
+5.7	DNS	1	5
+5.8	Squid	1	5
+5.9	Apache	1	5
+5.10	Telnet	1	5
+5.11	FTP	1	5
+5.12	Samba	1	5
